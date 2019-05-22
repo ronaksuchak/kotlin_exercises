@@ -82,6 +82,8 @@ val firstName = "James"
 val lastName = "Hatfield"
 
 val fullName = firstName + " " + lastName
+//or 
+val fullName = "$firstName $lastName"
 
 //Arrays
 
